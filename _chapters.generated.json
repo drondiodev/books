@@ -1,0 +1,3727 @@
+{
+  "generatedAt": "2026-06-18T16:10:33.165Z",
+  "sweetSpot": {
+    "min": 3,
+    "max": 60,
+    "maxKeep": 25
+  },
+  "books": {
+    "Livre1.md": {
+      "strategy": "plain_toc_link",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "A Quick Introduction to Social Leadership",
+          "level": 2,
+          "lineNo": 235
+        },
+        {
+          "title": "What I Know to be True",
+          "level": 2,
+          "lineNo": 237
+        },
+        {
+          "title": "The Benefits are Enormous—for You and Your Business",
+          "level": 2,
+          "lineNo": 239
+        },
+        {
+          "title": "Social Media is Where Customers are Today",
+          "level": 2,
+          "lineNo": 241
+        },
+        {
+          "title": "A Few Introductory Thoughts on LinkedIn",
+          "level": 2,
+          "lineNo": 243
+        },
+        {
+          "title": "Pick Your Platform",
+          "level": 2,
+          "lineNo": 245
+        },
+        {
+          "title": "We Are All Responsible for LinkedIn",
+          "level": 2,
+          "lineNo": 247
+        },
+        {
+          "title": "My Suggested Strategy?",
+          "level": 2,
+          "lineNo": 249
+        },
+        {
+          "title": "Why is LinkedIn Important?",
+          "level": 2,
+          "lineNo": 251
+        },
+        {
+          "title": "Dog Ear This Page for Later",
+          "level": 2,
+          "lineNo": 253
+        },
+        {
+          "title": "Know Your Social Selling Index (SSI)",
+          "level": 2,
+          "lineNo": 255
+        },
+        {
+          "title": "Establish Your Professional Brand",
+          "level": 2,
+          "lineNo": 257
+        },
+        {
+          "title": "Find the Right People",
+          "level": 2,
+          "lineNo": 259
+        },
+        {
+          "title": "Engage With Insights and Build Relationships",
+          "level": 2,
+          "lineNo": 261
+        },
+        {
+          "title": "How Do You Compare with Your Peers?",
+          "level": 2,
+          "lineNo": 263
+        },
+        {
+          "title": "Before You Do Anything, Do This",
+          "level": 2,
+          "lineNo": 265
+        },
+        {
+          "title": "Why These 18 Steps, Why Now?",
+          "level": 2,
+          "lineNo": 267
+        },
+        {
+          "title": "The 18 Steps to an All-Star LinkedIn Profile",
+          "level": 2,
+          "lineNo": 269
+        },
+        {
+          "title": "1­ – Set Up Your Profile Properly",
+          "level": 2,
+          "lineNo": 271
+        },
+        {
+          "title": "2­ – Create a Unique Web Address",
+          "level": 2,
+          "lineNo": 273
+        },
+        {
+          "title": "3 – Add Your Photo and Banner",
+          "level": 2,
+          "lineNo": 275
+        },
+        {
+          "title": "4­ – Write Your Professional Headline",
+          "level": 2,
+          "lineNo": 277
+        },
+        {
+          "title": "5­ – Write Your Summary",
+          "level": 2,
+          "lineNo": 279
+        },
+        {
+          "title": "6­ – Cover Your History, Update Your Positions",
+          "level": 2,
+          "lineNo": 281
+        },
+        {
+          "title": "7­ – Follow Companies, the Media, and Influencers",
+          "level": 2,
+          "lineNo": 283
+        }
+      ]
+    },
+    "Livre2.md": {
+      "strategy": "html_anchor_id",
+      "chapterCount": 16,
+      "chapters": [
+        {
+          "title": "BODY01",
+          "level": 2,
+          "lineNo": 316
+        },
+        {
+          "title": "BODY02",
+          "level": 2,
+          "lineNo": 321
+        },
+        {
+          "title": "BODY03",
+          "level": 2,
+          "lineNo": 332
+        },
+        {
+          "title": "BODY04",
+          "level": 2,
+          "lineNo": 353
+        },
+        {
+          "title": "BODY05",
+          "level": 2,
+          "lineNo": 360
+        },
+        {
+          "title": "BODY06",
+          "level": 2,
+          "lineNo": 537
+        },
+        {
+          "title": "BODY07",
+          "level": 2,
+          "lineNo": 568
+        },
+        {
+          "title": "BODY08",
+          "level": 2,
+          "lineNo": 597
+        },
+        {
+          "title": "BODY09",
+          "level": 2,
+          "lineNo": 682
+        },
+        {
+          "title": "BODY10",
+          "level": 2,
+          "lineNo": 799
+        },
+        {
+          "title": "BODY11",
+          "level": 2,
+          "lineNo": 2342
+        },
+        {
+          "title": "BODY12",
+          "level": 2,
+          "lineNo": 2797
+        },
+        {
+          "title": "BODY13",
+          "level": 2,
+          "lineNo": 2852
+        },
+        {
+          "title": "BODY14",
+          "level": 2,
+          "lineNo": 2873
+        },
+        {
+          "title": "BODY15",
+          "level": 2,
+          "lineNo": 3086
+        },
+        {
+          "title": "BODY16",
+          "level": 2,
+          "lineNo": 3139
+        }
+      ]
+    },
+    "Livre3.md": {
+      "strategy": "toc_anchor",
+      "chapterCount": 16,
+      "chapters": [
+        {
+          "title": "Chapter 1: Understanding Personal Branding",
+          "level": 1,
+          "lineNo": 12
+        },
+        {
+          "title": "Chapter 2: Crafting Your Personal Brand Identity",
+          "level": 1,
+          "lineNo": 20
+        },
+        {
+          "title": "Chapter 3: Optimizing Your LinkedIn Profile",
+          "level": 1,
+          "lineNo": 26
+        },
+        {
+          "title": "Chapter 4: Building a Strong LinkedIn Network",
+          "level": 1,
+          "lineNo": 38
+        },
+        {
+          "title": "Chapter 5: Creating and Sharing Content That Resonates",
+          "level": 1,
+          "lineNo": 47
+        },
+        {
+          "title": "Chapter 6: Leveraging LinkedIn Features for Branding",
+          "level": 1,
+          "lineNo": 59
+        },
+        {
+          "title": "Chapter 7: Managing and Growing Your Brand Over Time",
+          "level": 1,
+          "lineNo": 71
+        },
+        {
+          "title": "Chapter 8: Overcoming Challenges in Personal Branding",
+          "level": 1,
+          "lineNo": 81
+        },
+        {
+          "title": "Chapter 1: Understanding Personal Branding",
+          "level": 1,
+          "lineNo": 251
+        },
+        {
+          "title": "Chapter 2: Crafting Your Personal Brand Identity",
+          "level": 1,
+          "lineNo": 267
+        },
+        {
+          "title": "Chapter 3: Optimizing Your LinkedIn Profile",
+          "level": 1,
+          "lineNo": 279
+        },
+        {
+          "title": "Chapter 4: Building a Strong LinkedIn Network",
+          "level": 1,
+          "lineNo": 303
+        },
+        {
+          "title": "Chapter 5: Creating and Sharing Content That Resonates",
+          "level": 1,
+          "lineNo": 321
+        },
+        {
+          "title": "Chapter 6: Leveraging LinkedIn Features for Branding",
+          "level": 1,
+          "lineNo": 345
+        },
+        {
+          "title": "Chapter 7: Managing and Growing Your Brand Over Time",
+          "level": 1,
+          "lineNo": 369
+        },
+        {
+          "title": "Chapter 8: Overcoming Challenges in Personal Branding",
+          "level": 1,
+          "lineNo": 389
+        }
+      ]
+    },
+    "Livre4.md": {
+      "strategy": "toc_anchor",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "Chapter 1 Your LinkedIn Opportunities",
+          "level": 1,
+          "lineNo": 11
+        },
+        {
+          "title": "Chapter 2 Your Personal Brand and Your Best Authentic Self",
+          "level": 1,
+          "lineNo": 12
+        },
+        {
+          "title": "Chapter 3 Be Found and Contacted",
+          "level": 1,
+          "lineNo": 14
+        },
+        {
+          "title": "Chapter 4 Selecting the Right Words and Language",
+          "level": 1,
+          "lineNo": 15
+        },
+        {
+          "title": "Chapter 5 Your Visual Brand: Images, Rich Media, Links, and Featured Section",
+          "level": 1,
+          "lineNo": 16
+        },
+        {
+          "title": "Chapter 6 Your Professional Experience Brand",
+          "level": 1,
+          "lineNo": 17
+        },
+        {
+          "title": "Chapter 7 Your Education and Learning Brand",
+          "level": 1,
+          "lineNo": 18
+        },
+        {
+          "title": "Chapter 8 Your Credibility Brand (Activity and Special Sections)",
+          "level": 1,
+          "lineNo": 19
+        },
+        {
+          "title": "Chapter 9 Your Strategic Brand (Headline and About Essay)",
+          "level": 1,
+          "lineNo": 20
+        },
+        {
+          "title": "Chapter 10 Social Proof: Recommendations, Skills, and Endorsements",
+          "level": 1,
+          "lineNo": 21
+        },
+        {
+          "title": "Chapter 11 Appearance and Final Check",
+          "level": 1,
+          "lineNo": 22
+        },
+        {
+          "title": "Chapter 12 Your Company Matters: For Employees and Company Leaders",
+          "level": 1,
+          "lineNo": 24
+        },
+        {
+          "title": "Chapter 13 LinkedIn Community, Networking, and Groups",
+          "level": 1,
+          "lineNo": 25
+        },
+        {
+          "title": "Chapter 14 LinkedIn Content Introduction",
+          "level": 1,
+          "lineNo": 27
+        },
+        {
+          "title": "Chapter 15 Content Topics: Uncover New Ideas",
+          "level": 1,
+          "lineNo": 28
+        },
+        {
+          "title": "Chapter 16 Content Creation: Tips for You",
+          "level": 1,
+          "lineNo": 29
+        },
+        {
+          "title": "Chapter 17 Posts: Unleash the Power",
+          "level": 1,
+          "lineNo": 30
+        },
+        {
+          "title": "Chapter 18 Video: Energize your Feed",
+          "level": 1,
+          "lineNo": 31
+        },
+        {
+          "title": "Chapter 19 Special Posts: Polls, Stories, Documents, and More",
+          "level": 1,
+          "lineNo": 32
+        },
+        {
+          "title": "Chapter 20 Articles: Create a Body of Work",
+          "level": 1,
+          "lineNo": 33
+        },
+        {
+          "title": "Chapter 21 Rate Yourself",
+          "level": 1,
+          "lineNo": 35
+        },
+        {
+          "title": "Chapter 22 What Now?",
+          "level": 1,
+          "lineNo": 36
+        },
+        {
+          "title": "Chapter 15 - Content Topics: Uncover New Ideas",
+          "level": 1,
+          "lineNo": 2949
+        },
+        {
+          "title": "Chapter 16 - Content Creation: Tips for You",
+          "level": 1,
+          "lineNo": 2951
+        },
+        {
+          "title": "Chapter 17 - Posts: Unleash the Power",
+          "level": 1,
+          "lineNo": 2953
+        }
+      ]
+    },
+    "Livre5.md": {
+      "strategy": "markdown_h2",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "LINKEDIN",
+          "level": 1,
+          "lineNo": 5
+        },
+        {
+          "title": "LINKEDIN PERSONAL BRANDING AND MARKETING",
+          "level": 1,
+          "lineNo": 11
+        },
+        {
+          "title": "All Rights Reserved",
+          "level": 1,
+          "lineNo": 17
+        },
+        {
+          "title": "INTRODUCTION",
+          "level": 1,
+          "lineNo": 55
+        },
+        {
+          "title": "UNERSTANDING LINKEDIN",
+          "level": 1,
+          "lineNo": 111
+        },
+        {
+          "title": "The basics for LinkedIn",
+          "level": 1,
+          "lineNo": 123
+        },
+        {
+          "title": "OPPORTUNITIES ON LINKEDIN",
+          "level": 1,
+          "lineNo": 161
+        },
+        {
+          "title": "HOW TO EFFECTIVELY USE LINKEDIN",
+          "level": 1,
+          "lineNo": 201
+        },
+        {
+          "title": "1. Complete Your LinkedIn Profile",
+          "level": 1,
+          "lineNo": 213
+        },
+        {
+          "title": "8. Raise the Profile of Your Organization",
+          "level": 1,
+          "lineNo": 299
+        },
+        {
+          "title": "WHYLINKEDIN IS THE BEST TO BUILD YOUR BRAND",
+          "level": 1,
+          "lineNo": 317
+        },
+        {
+          "title": "HOW TO BUILD YOUR BRAND ON SOCIAL MEDIA",
+          "level": 1,
+          "lineNo": 357
+        },
+        {
+          "title": "10. Research Influencers",
+          "level": 1,
+          "lineNo": 427
+        },
+        {
+          "title": "PERSONAL BRANDING ON LINKEDIN",
+          "level": 1,
+          "lineNo": 437
+        },
+        {
+          "title": "14 LinkedIn Personal Branding Techniques",
+          "level": 1,
+          "lineNo": 449
+        },
+        {
+          "title": "2. Select a Fun Cover Photo",
+          "level": 1,
+          "lineNo": 469
+        },
+        {
+          "title": "3. Make Your Profile Search Engine Friendly",
+          "level": 1,
+          "lineNo": 477
+        },
+        {
+          "title": "4. Customize Your URL",
+          "level": 1,
+          "lineNo": 485
+        },
+        {
+          "title": "5. Compose a Magnificent Description",
+          "level": 1,
+          "lineNo": 489
+        },
+        {
+          "title": "6. Point Out Your Strengths",
+          "level": 1,
+          "lineNo": 497
+        },
+        {
+          "title": "7. Add images to your profile.",
+          "level": 1,
+          "lineNo": 505
+        },
+        {
+          "title": "Writing Articles",
+          "level": 1,
+          "lineNo": 509
+        },
+        {
+          "title": "9. Be a part of groups",
+          "level": 1,
+          "lineNo": 517
+        },
+        {
+          "title": "10. Request a referral",
+          "level": 1,
+          "lineNo": 525
+        },
+        {
+          "title": "11. Consider Connection Requests",
+          "level": 1,
+          "lineNo": 533
+        }
+      ]
+    },
+    "Livre6.md": {
+      "strategy": "inline_chapter",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "CHAPTER 1 — Determining Your Linkedln Strategy...",
+          "level": 2,
+          "lineNo": 51
+        },
+        {
+          "title": "CHAPTER 2 — Getting Found on Linkedln .. 17",
+          "level": 2,
+          "lineNo": 53
+        },
+        {
+          "title": "CHAPTER 3 — Understanding Endorsements and Recommendations .... .37",
+          "level": 2,
+          "lineNo": 55
+        },
+        {
+          "title": "CHAPTER 4 — Optimizing the \"Behind the Scenes\" Sections.. 63",
+          "level": 2,
+          "lineNo": 59
+        },
+        {
+          "title": "CHAPTER 5 — Establishing Your Calling Card. 81",
+          "level": 2,
+          "lineNo": 61
+        },
+        {
+          "title": "CHAPTER 6 — Impressing with the Right Profile Picture ... .. 103",
+          "level": 2,
+          "lineNo": 63
+        },
+        {
+          "title": "CHAPTER 7 — Developing a Compelling Headline.. 123",
+          "level": 2,
+          "lineNo": 65
+        },
+        {
+          "title": "CHAPTER 8 — Reinforcing Your Brand with a Background Photo.... .137",
+          "level": 2,
+          "lineNo": 67
+        },
+        {
+          "title": "CHAPTER 9 — Showing You Are Open for Business or Job Opportunities..........145",
+          "level": 2,
+          "lineNo": 69
+        },
+        {
+          "title": "CHAPTER 11 — Creating a Powerful Experience ... .169",
+          "level": 2,
+          "lineNo": 75
+        },
+        {
+          "title": "CHAPTER 12 — Writing a Compelling About Section... .197",
+          "level": 2,
+          "lineNo": 77
+        },
+        {
+          "title": "CHAPTER 13 — There's More to You than Your Jobs .. .223",
+          "level": 2,
+          "lineNo": 81
+        },
+        {
+          "title": "CHAPTER 14 — Following Groups, Companies,and Influencers... ..253",
+          "level": 2,
+          "lineNo": 83
+        },
+        {
+          "title": "CHAPTER 15 — Publishing on Linkedln.. 273",
+          "level": 2,
+          "lineNo": 85
+        },
+        {
+          "title": "CHAPTER 16 — Unveiling and Marketing Your Powerful Profile... .297",
+          "level": 2,
+          "lineNo": 87
+        },
+        {
+          "title": "CHAPTER 17 — Ten Profile Do's and Don'ts.. .327",
+          "level": 2,
+          "lineNo": 91
+        },
+        {
+          "title": "CHAPTER 18 — Ten Tips fora Perfect Profile Picture.. .333",
+          "level": 2,
+          "lineNo": 93
+        },
+        {
+          "title": "CHAPTER 19 — Ten Tips to Expand Your Network .. .339",
+          "level": 2,
+          "lineNo": 95
+        },
+        {
+          "title": "CHAPTER 21 — Ten Linkedln Profile Resources . ..357",
+          "level": 2,
+          "lineNo": 99
+        },
+        {
+          "title": "CHAPTER 22 — Ten Ways to Get Noticed by Recruiters on Linkedln.... ..363",
+          "level": 2,
+          "lineNo": 101
+        },
+        {
+          "title": "Part 1 — The Strategy Before the Siege....",
+          "level": 2,
+          "lineNo": 115
+        },
+        {
+          "title": "Part 2 — Getting Your Linkedln Profile Started ..",
+          "level": 2,
+          "lineNo": 117
+        },
+        {
+          "title": "Part 3 — Detailing Your Career Trajectory and Creating the Ultimate First Impression",
+          "level": 2,
+          "lineNo": 119
+        },
+        {
+          "title": "Part 4 — Rounding Out Your Profile and Adding Finishing Touches.",
+          "level": 2,
+          "lineNo": 121
+        },
+        {
+          "title": "Part 5 — The Part of Tens ..",
+          "level": 2,
+          "lineNo": 123
+        }
+      ]
+    },
+    "Livre7.md": {
+      "strategy": "markdown_h2",
+      "chapterCount": 12,
+      "chapters": [
+        {
+          "title": "Other LinkedIn Books by the Author",
+          "level": 3,
+          "lineNo": 68
+        },
+        {
+          "title": "Introduction",
+          "level": 3,
+          "lineNo": 74
+        },
+        {
+          "title": "Cost",
+          "level": 3,
+          "lineNo": 113
+        },
+        {
+          "title": "LinkedIn Premium Career",
+          "level": 3,
+          "lineNo": 129
+        },
+        {
+          "title": "Jobs on LinkedIn",
+          "level": 3,
+          "lineNo": 295
+        },
+        {
+          "title": "Easy Apply",
+          "level": 3,
+          "lineNo": 329
+        },
+        {
+          "title": "Should I buy LinkedIn Premium?",
+          "level": 3,
+          "lineNo": 335
+        },
+        {
+          "title": "SOURCES - Further Reading - Books for Reference",
+          "level": 3,
+          "lineNo": 449
+        },
+        {
+          "title": "Recommended Websites for Further Review",
+          "level": 3,
+          "lineNo": 457
+        },
+        {
+          "title": "Other Books by the Author",
+          "level": 3,
+          "lineNo": 475
+        },
+        {
+          "title": "Questions or Comments?",
+          "level": 3,
+          "lineNo": 529
+        },
+        {
+          "title": "Now please share your opinion and write a review",
+          "level": 3,
+          "lineNo": 541
+        }
+      ]
+    },
+    "Livre8.md": {
+      "strategy": "toc_anchor",
+      "chapterCount": 20,
+      "chapters": [
+        {
+          "title": "PART 1: Fast Prospecting",
+          "level": 1,
+          "lineNo": 20
+        },
+        {
+          "title": "PART 2: Slow Prospecting",
+          "level": 1,
+          "lineNo": 78
+        },
+        {
+          "title": "PART 3: Your Network Is Your Net Worth",
+          "level": 1,
+          "lineNo": 115
+        },
+        {
+          "title": "PART 4: Personal Branding and the LinkedIn Profile Lead Machine",
+          "level": 1,
+          "lineNo": 173
+        },
+        {
+          "title": "Step 1: Save Your Profile Before Editing",
+          "level": 1,
+          "lineNo": 184
+        },
+        {
+          "title": "Step 2: Cover Image Banner",
+          "level": 1,
+          "lineNo": 185
+        },
+        {
+          "title": "Step 3: Headshot",
+          "level": 1,
+          "lineNo": 186
+        },
+        {
+          "title": "Step 4: Headline",
+          "level": 1,
+          "lineNo": 187
+        },
+        {
+          "title": "Step 5: Name Pronunciation and Elevator Pitch",
+          "level": 1,
+          "lineNo": 188
+        },
+        {
+          "title": "Step 6: Make It Easy to Contact You",
+          "level": 1,
+          "lineNo": 189
+        },
+        {
+          "title": "Step 7: Tell Your Story in the About Section",
+          "level": 1,
+          "lineNo": 191
+        },
+        {
+          "title": "Step 8: Elevate the Featured Section",
+          "level": 1,
+          "lineNo": 193
+        },
+        {
+          "title": "Step 9: Leverage the Services Section",
+          "level": 1,
+          "lineNo": 194
+        },
+        {
+          "title": "Step 10: Check Your Activity Section–Are You Showing Up or Sitting Out?",
+          "level": 1,
+          "lineNo": 195
+        },
+        {
+          "title": "Step 11: Build Out Your Experience",
+          "level": 1,
+          "lineNo": 201
+        },
+        {
+          "title": "Step 12: Optimize Your Education Entries",
+          "level": 1,
+          "lineNo": 202
+        },
+        {
+          "title": "Step 13: Add Licenses and Certifications That Mean Something",
+          "level": 1,
+          "lineNo": 203
+        },
+        {
+          "title": "Step 14: Skills and Endorsements",
+          "level": 1,
+          "lineNo": 204
+        },
+        {
+          "title": "Step 15: Get Recommendations",
+          "level": 1,
+          "lineNo": 205
+        },
+        {
+          "title": "PART 5: Differentiation, Thought Leadership, and Authority",
+          "level": 1,
+          "lineNo": 207
+        }
+      ]
+    },
+    "Livre9.md": {
+      "strategy": "markdown_h2_fallback",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "Rob Fitzpatrick",
+          "level": 1,
+          "lineNo": 5
+        },
+        {
+          "title": "a Founder Centric book",
+          "level": 1,
+          "lineNo": 7
+        },
+        {
+          "title": "THE MOM TEST",
+          "level": 1,
+          "lineNo": 13
+        },
+        {
+          "title": "Introduction",
+          "level": 1,
+          "lineNo": 17
+        },
+        {
+          "title": "Is this book for you?",
+          "level": 1,
+          "lineNo": 29
+        },
+        {
+          "title": "Talking to customers is hard",
+          "level": 1,
+          "lineNo": 51
+        },
+        {
+          "title": "Why another book on talking and selling?",
+          "level": 1,
+          "lineNo": 69
+        },
+        {
+          "title": "CHAPTER ONE",
+          "level": 1,
+          "lineNo": 95
+        },
+        {
+          "title": "The Mom Test",
+          "level": 1,
+          "lineNo": 97
+        },
+        {
+          "title": "Failing the mom test",
+          "level": 1,
+          "lineNo": 107
+        },
+        {
+          "title": "Passing the mom test",
+          "level": 1,
+          "lineNo": 139
+        },
+        {
+          "title": "A useful conversation",
+          "level": 1,
+          "lineNo": 185
+        },
+        {
+          "title": "The Mom Test:",
+          "level": 1,
+          "lineNo": 213
+        },
+        {
+          "title": "Good question / bad question",
+          "level": 1,
+          "lineNo": 225
+        },
+        {
+          "title": "Using the mom test",
+          "level": 1,
+          "lineNo": 373
+        },
+        {
+          "title": "CHAPTER TWO",
+          "level": 1,
+          "lineNo": 383
+        },
+        {
+          "title": "Avoiding bad data",
+          "level": 1,
+          "lineNo": 385
+        },
+        {
+          "title": "Deflect compliments",
+          "level": 1,
+          "lineNo": 399
+        },
+        {
+          "title": "A bad conversation:",
+          "level": 1,
+          "lineNo": 413
+        },
+        {
+          "title": "A good conversation:",
+          "level": 1,
+          "lineNo": 433
+        },
+        {
+          "title": "A good (negative) conversation:",
+          "level": 1,
+          "lineNo": 457
+        },
+        {
+          "title": "Symptoms (in the meeting):",
+          "level": 1,
+          "lineNo": 471
+        },
+        {
+          "title": "Symptoms (back at the office):",
+          "level": 1,
+          "lineNo": 476
+        },
+        {
+          "title": "Anchor fluff",
+          "level": 1,
+          "lineNo": 486
+        },
+        {
+          "title": "Transitioning from a fluffy question to a concrete one:",
+          "level": 1,
+          "lineNo": 514
+        }
+      ]
+    },
+    "Livre10.md": {
+      "strategy": "plain_toc_link",
+      "chapterCount": 14,
+      "chapters": [
+        {
+          "title": "Introduction",
+          "level": 2,
+          "lineNo": 61
+        },
+        {
+          "title": "1.The New Rules of Job Searching",
+          "level": 2,
+          "lineNo": 65
+        },
+        {
+          "title": "2.LinkedIn: Your Career Command Center",
+          "level": 2,
+          "lineNo": 75
+        },
+        {
+          "title": "3.Decoding the Recruiters\\' Playbook",
+          "level": 2,
+          "lineNo": 85
+        },
+        {
+          "title": "4.Sharpening Your Professional Edge",
+          "level": 2,
+          "lineNo": 95
+        },
+        {
+          "title": "5.Keyword Mastery",
+          "level": 2,
+          "lineNo": 105
+        },
+        {
+          "title": "6.The Art and Science of Building Your Profile",
+          "level": 2,
+          "lineNo": 115
+        },
+        {
+          "title": "7.Your Digital First Impression",
+          "level": 2,
+          "lineNo": 125
+        },
+        {
+          "title": "8.Crafting Your Professional Narrative",
+          "level": 2,
+          "lineNo": 135
+        },
+        {
+          "title": "9.Beyond the Basics",
+          "level": 2,
+          "lineNo": 145
+        },
+        {
+          "title": "10.Picture-Perfect Multimedia Strategies",
+          "level": 2,
+          "lineNo": 155
+        },
+        {
+          "title": "11.Igniting Your LinkedIn Presence",
+          "level": 2,
+          "lineNo": 165
+        },
+        {
+          "title": "12.Maximizing Your Profile\\'s Impact",
+          "level": 2,
+          "lineNo": 175
+        },
+        {
+          "title": "Your AI-Enhanced LinkedIn Journey Begins",
+          "level": 2,
+          "lineNo": 185
+        }
+      ]
+    },
+    "Livre11.md": {
+      "strategy": "markdown_h2",
+      "chapterCount": 15,
+      "chapters": [
+        {
+          "title": "INTRODUCTION {.heading_s1Z}",
+          "level": 1,
+          "lineNo": 83
+        },
+        {
+          "title": "UNDERSTANDING LINKEDIN {.heading_s3H}",
+          "level": 1,
+          "lineNo": 172
+        },
+        {
+          "title": "The basics for LinkedIn {part0005.xhtmlaK6 .heading_s3T}",
+          "level": 1,
+          "lineNo": 193
+        },
+        {
+          "title": "What LinkedIn can do for you {part0005.xhtmlaKC .heading_s48}",
+          "level": 1,
+          "lineNo": 250
+        },
+        {
+          "title": "OPPORTUNITIES ON LINKEDIN {.heading_s4M}",
+          "level": 1,
+          "lineNo": 274
+        },
+        {
+          "title": "HOW TO EFFECTIVELY USE LINKEDIN {.heading_s4M}",
+          "level": 1,
+          "lineNo": 365
+        },
+        {
+          "title": "WHY LINKEDIN IS THE BEST TO BUILD YOUR BRAND {part0007.xhtmlaK1 .heading_s1Z}",
+          "level": 1,
+          "lineNo": 611
+        },
+        {
+          "title": "HOW TO BUILD YOUR BRAND ON SOCIAL MEDIA {.heading_s4M}",
+          "level": 1,
+          "lineNo": 722
+        },
+        {
+          "title": "PERSONAL BRANDING ON LINKEDIN {.heading_s4M}",
+          "level": 1,
+          "lineNo": 935
+        },
+        {
+          "title": "14 LinkedIn Personal Branding Techniques {part0009.xhtmlaK7 .heading_s9W}",
+          "level": 1,
+          "lineNo": 955
+        },
+        {
+          "title": "HOW TO BUILD YOUR BRAND ON LINKEDIN {.heading_s4M}",
+          "level": 1,
+          "lineNo": 1145
+        },
+        {
+          "title": "EXTRA TIPS FOR TOP NOTCHED LINKEDIN BRANDING {.heading_s4M}",
+          "level": 1,
+          "lineNo": 1377
+        },
+        {
+          "title": "LINKEDIN MARKETING {.heading_s4M}",
+          "level": 1,
+          "lineNo": 1641
+        },
+        {
+          "title": "Why personal accounts are so valuable for LinkedIn marketing {part0012.xhtmlaKA .heading_s9W}",
+          "level": 1,
+          "lineNo": 1749
+        },
+        {
+          "title": "LinkedIn marketing tips to strengthen your strategy {part0012.xhtmlaK2 .heading_sHP}",
+          "level": 1,
+          "lineNo": 1811
+        }
+      ]
+    },
+    "Livre12.md": {
+      "strategy": "markdown_h2_fallback",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "List of Tables {navigation.xhtmlf01}",
+          "level": 2,
+          "lineNo": 37
+        },
+        {
+          "title": "List of Illustrations {navigation.xhtmlf02}",
+          "level": 2,
+          "lineNo": 52
+        },
+        {
+          "title": "Guide",
+          "level": 2,
+          "lineNo": 85
+        },
+        {
+          "title": "Pages",
+          "level": 2,
+          "lineNo": 105
+        },
+        {
+          "title": "[]{f01.xhtmlfm1}Other books by Jeb Blount {f01.xhtmlf01_1}",
+          "level": 1,
+          "lineNo": 443
+        },
+        {
+          "title": "[]{f05.xhtmlPage_xi .pagebreak role=\"doc-pagebreak\" aria-label=\"xi\"}[]{f05.xhtmlfm3}PREFACE {f05.xhtmlf03_1}",
+          "level": 1,
+          "lineNo": 597
+        },
+        {
+          "title": "Why LinkedIn, Why Now {f05.xhtmlhead-2-190}",
+          "level": 2,
+          "lineNo": 629
+        },
+        {
+          "title": "A Vibrant Sales Ecosystem {f05.xhtmlhead-2-191}",
+          "level": 2,
+          "lineNo": 672
+        },
+        {
+          "title": "This Is a \"Fill Up the Pipeline\" Book {f05.xhtmlhead-2-192}",
+          "level": 2,
+          "lineNo": 710
+        },
+        {
+          "title": "We Meet You Where You Are {f05.xhtmlhead-2-193}",
+          "level": 2,
+          "lineNo": 744
+        },
+        {
+          "title": "Fast {c01.xhtmlhead-2-1}",
+          "level": 2,
+          "lineNo": 841
+        },
+        {
+          "title": "Slow {c01.xhtmlhead-2-2}",
+          "level": 2,
+          "lineNo": 856
+        },
+        {
+          "title": "Running Fast and Slow {c01.xhtmlhead-2-3}",
+          "level": 2,
+          "lineNo": 872
+        },
+        {
+          "title": "Building Pipeline Fast Doesn\\'t Work When You Are Moving Slow {c01.xhtmlhead-2-4}",
+          "level": 2,
+          "lineNo": 891
+        },
+        {
+          "title": "Note {c01.xhtmlc01_2}",
+          "level": 2,
+          "lineNo": 951
+        },
+        {
+          "title": "AI PRO TIP",
+          "level": 3,
+          "lineNo": 1000
+        },
+        {
+          "title": "Go Where the Money Is {c02.xhtmlhead-2-6}",
+          "level": 2,
+          "lineNo": 1021
+        },
+        {
+          "title": "Analyze Data Points to Identify Your ICP {c02.xhtmlhead-2-7}",
+          "level": 2,
+          "lineNo": 1057
+        },
+        {
+          "title": "EXERCISE 2.1 CURRENT CUSTOMER PATTERNS {c02.xhtmlhead-2-8}",
+          "level": 3,
+          "lineNo": 1073
+        },
+        {
+          "title": "EXERCISE 2.2 CLOSED WON VERSUS CLOSED LOST {c02.xhtmlhead-2-9}",
+          "level": 3,
+          "lineNo": 1116
+        },
+        {
+          "title": "EXERCISE 2.3 COMPETITOR ANALYSIS {c02.xhtmlhead-2-10}",
+          "level": 3,
+          "lineNo": 1180
+        },
+        {
+          "title": "AI PRO TIP",
+          "level": 3,
+          "lineNo": 1222
+        },
+        {
+          "title": "EXERCISE 2.4 ICP INSIGHTS {c02.xhtmlhead-2-11}",
+          "level": 3,
+          "lineNo": 1260
+        },
+        {
+          "title": "Develop Your ICP {c02.xhtmlhead-2-12}",
+          "level": 2,
+          "lineNo": 1294
+        },
+        {
+          "title": "A Continuous Process of Refinement {c02.xhtmlhead-3-1}",
+          "level": 3,
+          "lineNo": 1431
+        }
+      ]
+    },
+    "Livre13.md": {
+      "strategy": "plain_toc_link",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "Title Page",
+          "level": 2,
+          "lineNo": 44
+        },
+        {
+          "title": "Introduction",
+          "level": 2,
+          "lineNo": 48
+        },
+        {
+          "title": "LinkedIn Unleashed - From Connections to Careers",
+          "level": 2,
+          "lineNo": 50
+        },
+        {
+          "title": "Why LinkedIn?",
+          "level": 2,
+          "lineNo": 52
+        },
+        {
+          "title": "Breaking Down Barriers",
+          "level": 2,
+          "lineNo": 54
+        },
+        {
+          "title": "Creating a Global Marketplace for Talent",
+          "level": 2,
+          "lineNo": 56
+        },
+        {
+          "title": "Fostering Knowledge Sharing and Collaboration",
+          "level": 2,
+          "lineNo": 58
+        },
+        {
+          "title": "Empowering Personal Branding",
+          "level": 2,
+          "lineNo": 60
+        },
+        {
+          "title": "Enhancing Business Development and Marketing",
+          "level": 2,
+          "lineNo": 62
+        },
+        {
+          "title": "Promoting Diversity and Inclusion",
+          "level": 2,
+          "lineNo": 64
+        },
+        {
+          "title": "Revolutionizing Job Search and Recruitment",
+          "level": 2,
+          "lineNo": 66
+        },
+        {
+          "title": "Enabling Career Transition and Growth",
+          "level": 2,
+          "lineNo": 68
+        },
+        {
+          "title": "What will you Learn?",
+          "level": 2,
+          "lineNo": 70
+        },
+        {
+          "title": "Optimizing Your LinkedIn Profile",
+          "level": 2,
+          "lineNo": 72
+        },
+        {
+          "title": "Building a Strong Professional Network",
+          "level": 2,
+          "lineNo": 74
+        },
+        {
+          "title": "Engaging with Content and Sharing Knowledge",
+          "level": 2,
+          "lineNo": 76
+        },
+        {
+          "title": "Navigating LinkedIn\\'s Job Search Features",
+          "level": 2,
+          "lineNo": 78
+        },
+        {
+          "title": "Leveraging LinkedIn for Business Development",
+          "level": 2,
+          "lineNo": 80
+        },
+        {
+          "title": "Developing Your Personal Brand",
+          "level": 2,
+          "lineNo": 82
+        },
+        {
+          "title": "Staying Ahead with Industry Insights and Learning",
+          "level": 2,
+          "lineNo": 84
+        },
+        {
+          "title": "1. Profile Photo: Choose a Professional Image",
+          "level": 2,
+          "lineNo": 86
+        },
+        {
+          "title": "2. Headline: Craft a Compelling Statement",
+          "level": 2,
+          "lineNo": 88
+        },
+        {
+          "title": "3. Summary: Write an Engaging About Section",
+          "level": 2,
+          "lineNo": 90
+        },
+        {
+          "title": "4. Skills: List Relevant Skills and Endorsements",
+          "level": 2,
+          "lineNo": 95
+        },
+        {
+          "title": "5. Education: Highlight Your Academic Background",
+          "level": 2,
+          "lineNo": 97
+        }
+      ]
+    },
+    "Livre14.md": {
+      "strategy": "inline_chapter",
+      "chapterCount": 5,
+      "chapters": [
+        {
+          "title": "chapter 4 — 1 and as a Premium Member you have the possibility to view",
+          "level": 2,
+          "lineNo": 823
+        },
+        {
+          "title": "chapter 3 — 5.5 to learn how to create a QR code.",
+          "level": 2,
+          "lineNo": 1923
+        },
+        {
+          "title": "chapter 3 — 2.3 on how to contact personalities and influencers. It is",
+          "level": 2,
+          "lineNo": 2264
+        },
+        {
+          "title": "chapter 3 — 1.2.",
+          "level": 2,
+          "lineNo": 3188
+        },
+        {
+          "title": "chapter 3 — 2.",
+          "level": 2,
+          "lineNo": 4010
+        }
+      ]
+    },
+    "Livre15.md": {
+      "strategy": "inline_chapter",
+      "chapterCount": 8,
+      "chapters": [
+        {
+          "title": "Chapter 1 — Understanding Personal",
+          "level": 2,
+          "lineNo": 80
+        },
+        {
+          "title": "Chapter 2 — Crafting Your Personal Brand",
+          "level": 2,
+          "lineNo": 101
+        },
+        {
+          "title": "Chapter 3 — Optimizing Your LinkedIn",
+          "level": 2,
+          "lineNo": 117
+        },
+        {
+          "title": "Chapter 4 — Building a Strong LinkedIn",
+          "level": 2,
+          "lineNo": 150
+        },
+        {
+          "title": "Chapter 5 — Creating and Sharing Content That",
+          "level": 2,
+          "lineNo": 173
+        },
+        {
+          "title": "Chapter 6 — Leveraging LinkedIn Features for",
+          "level": 2,
+          "lineNo": 205
+        },
+        {
+          "title": "Chapter 7 — Managing and Growing Your Brand Over",
+          "level": 2,
+          "lineNo": 234
+        },
+        {
+          "title": "Chapter 8 — Overcoming Challenges in Personal",
+          "level": 2,
+          "lineNo": 261
+        }
+      ]
+    },
+    "Livre16.md": {
+      "strategy": "markdown_h2_fallback",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "[]{9781400248889_Praise.xhtmlpage_i .calibre1 .pagebreak title=\"i\"}PRAISE FOR BUILDING A STORYBRAND {.fmt}",
+          "level": 2,
+          "lineNo": 49
+        },
+        {
+          "title": "[COPYRIGHT](nav.xhtmlrcopy){9781400248889_Copyright.xhtmlcopy .calibre8} {.fmt1}",
+          "level": 2,
+          "lineNo": 164
+        },
+        {
+          "title": "[]{nav.xhtmlpage_ix .calibre1 .pagebreak title=\"ix\"}CONTENTS[]{nav.xhtmlpage_x .calibre1 .pagebreak title=\"x\"} {.fmt1}",
+          "level": 2,
+          "lineNo": 235
+        },
+        {
+          "title": "Guide {.fmt1}",
+          "level": 1,
+          "lineNo": 241
+        },
+        {
+          "title": "[THE KEY TO BEING SEEN, HEARD, AND UNDERSTOOD](nav.xhtmlrsec5){.calibre8} {.chap_head}",
+          "level": 2,
+          "lineNo": 689
+        },
+        {
+          "title": "WHY SO MANY BUSINESSES FAIL {.h}",
+          "level": 3,
+          "lineNo": 762
+        },
+        {
+          "title": "STORY TO THE RESCUE {.h}",
+          "level": 3,
+          "lineNo": 941
+        },
+        {
+          "title": "THE FORMULA FOR CLEAR COMMUNICATION {.h}",
+          "level": 3,
+          "lineNo": 977
+        },
+        {
+          "title": "THE KEY IS CLARITY {.h}",
+          "level": 3,
+          "lineNo": 1009
+        },
+        {
+          "title": "BUSINESS HAS AN ENEMY {.h}",
+          "level": 3,
+          "lineNo": 1033
+        },
+        {
+          "title": "STOP SAYING THAT {.h}",
+          "level": 3,
+          "lineNo": 1094
+        },
+        {
+          "title": "CLARIFY YOUR MESSAGE {.h}",
+          "level": 3,
+          "lineNo": 1114
+        },
+        {
+          "title": "[THE SECRET WEAPON THAT WILL GROW YOUR BUSINESS](nav.xhtmlrsec6){.calibre8} {.chap_head}",
+          "level": 2,
+          "lineNo": 1139
+        },
+        {
+          "title": "STORY MAKES MUSIC OUT OF NOISE {.h}",
+          "level": 3,
+          "lineNo": 1168
+        },
+        {
+          "title": "STEVE JOBS AND THE MESSAGE OF APPLE {.h}",
+          "level": 3,
+          "lineNo": 1225
+        },
+        {
+          "title": "[]{9781400248889_Chapter02.xhtmlpage_24 .calibre1 .pagebreak title=\"24\"}STORY CAN GROW YOUR BUSINESS {.h}",
+          "level": 3,
+          "lineNo": 1286
+        },
+        {
+          "title": "DOES YOUR MARKETING PASS THE GRUNT TEST? {.h}",
+          "level": 3,
+          "lineNo": 1472
+        },
+        {
+          "title": "CLARITY PRODUCES RESULTS {.h}",
+          "level": 3,
+          "lineNo": 1500
+        },
+        {
+          "title": "WE NEED A FILTER {.h}",
+          "level": 3,
+          "lineNo": 1563
+        },
+        {
+          "title": "[THE SIMPLE SB7 FRAMEWORK](nav.xhtmlrsec7){.calibre8} {.chap_head}",
+          "level": 2,
+          "lineNo": 1606
+        },
+        {
+          "title": "THE STORYBRAND FRAMEWORK {.h}",
+          "level": 3,
+          "lineNo": 1616
+        },
+        {
+          "title": "WHEN YOU FEEL CONFUSED, CLARIFY YOUR MESSAGE {.h}",
+          "level": 3,
+          "lineNo": 1959
+        },
+        {
+          "title": "[]{9781400248889_Chapter03.xhtmlpage_49 .calibre1 .pagebreak title=\"49\"}CLARIFY YOUR MESSAGE SO CUSTOMERS LISTEN {.h}",
+          "level": 3,
+          "lineNo": 2028
+        },
+        {
+          "title": "THE STAKES ARE HIGH {.h}",
+          "level": 3,
+          "lineNo": 2045
+        },
+        {
+          "title": "[BUILDING YOUR STORYBRAND](nav.xhtmlrsec8){.calibre8} {.part_head}",
+          "level": 2,
+          "lineNo": 2091
+        }
+      ]
+    },
+    "Livre17.md": {
+      "strategy": "toc_anchor",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "Chapter 1: Making the Business Case for Social Media",
+          "level": 1,
+          "lineNo": 1581
+        },
+        {
+          "title": "Chapter 2: Tallying the Bottom Line",
+          "level": 1,
+          "lineNo": 1590
+        },
+        {
+          "title": "Chapter 4: Managing Your Cybersocial Campaign",
+          "level": 1,
+          "lineNo": 1606
+        },
+        {
+          "title": "Chapter 1: Discovering Helpful Tech Tools",
+          "level": 1,
+          "lineNo": 5939
+        },
+        {
+          "title": "Chapter 2: Leveraging SEO for Improved Visibility",
+          "level": 1,
+          "lineNo": 5947
+        },
+        {
+          "title": "Chapter 1: Growing Your Brand with Content",
+          "level": 1,
+          "lineNo": 11405
+        },
+        {
+          "title": "Chapter 2: Exploring Content-Marketing Platforms",
+          "level": 1,
+          "lineNo": 11411
+        },
+        {
+          "title": "Chapter 3: Developing a Content-Marketing Strategy",
+          "level": 1,
+          "lineNo": 11420
+        },
+        {
+          "title": "Chapter 4: Getting Your Content to the Masses",
+          "level": 1,
+          "lineNo": 11423
+        },
+        {
+          "title": "Chapter 1: Using X as a Marketing Tool",
+          "level": 1,
+          "lineNo": 14718
+        },
+        {
+          "title": "Chapter 2: Using X as a Networking Tool",
+          "level": 1,
+          "lineNo": 14726
+        },
+        {
+          "title": "Chapter 3: Making X Yours",
+          "level": 1,
+          "lineNo": 14736
+        },
+        {
+          "title": "Chapter 4: Social Listening with X",
+          "level": 1,
+          "lineNo": 14741
+        },
+        {
+          "title": "Chapter 1: Using Facebook as a Marketing Tool",
+          "level": 1,
+          "lineNo": 17156
+        },
+        {
+          "title": "Chapter 2: Creating and Sharing Content on Facebook",
+          "level": 1,
+          "lineNo": 17169
+        },
+        {
+          "title": "Chapter 3: Advertising and Selling on Facebook",
+          "level": 1,
+          "lineNo": 17177
+        },
+        {
+          "title": "Chapter 4: Streaming Live Video on Facebook",
+          "level": 1,
+          "lineNo": 17181
+        },
+        {
+          "title": "Chapter 1: Promoting Yourself with LinkedIn",
+          "level": 1,
+          "lineNo": 20429
+        },
+        {
+          "title": "Chapter 2: Promoting Your Business with LinkedIn",
+          "level": 1,
+          "lineNo": 20435
+        },
+        {
+          "title": "Chapter 3: Using LinkedIn as a Content Platform",
+          "level": 1,
+          "lineNo": 20440
+        },
+        {
+          "title": "Chapter 1: Pinning Down Pinterest",
+          "level": 1,
+          "lineNo": 23074
+        },
+        {
+          "title": "Chapter 2: Snapchatting It Up!",
+          "level": 1,
+          "lineNo": 23080
+        },
+        {
+          "title": "Chapter 3: Getting Started with Instagram",
+          "level": 1,
+          "lineNo": 23085
+        },
+        {
+          "title": "Chapter 4: TikTok(ing) Around the Clock",
+          "level": 1,
+          "lineNo": 23094
+        },
+        {
+          "title": "Chapter 2: Maximizing Stratified Social Communities",
+          "level": 1,
+          "lineNo": 27100
+        }
+      ]
+    },
+    "Livre18.md": {
+      "strategy": "markdown_h2_fallback",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "The role of a job interview when selecting employees {Ch01.xhtmlsec1_1}",
+          "level": 2,
+          "lineNo": 154
+        },
+        {
+          "title": "What makes interviews good predictors of future performance? {Ch01.xhtmlsec1_4}",
+          "level": 2,
+          "lineNo": 452
+        },
+        {
+          "title": "Overview of the remaining chapters {Ch01.xhtmlsec1_5}",
+          "level": 2,
+          "lineNo": 624
+        },
+        {
+          "title": "[]{Ch01.xhtmlp13 .pagebreak aria-label=\" page 13. \" role=\"doc-pagebreak\"} Notes",
+          "level": 2,
+          "lineNo": 661
+        },
+        {
+          "title": "This is what a poorly designed job interview looks like ... {Ch02.xhtmlsec2_1}",
+          "level": 2,
+          "lineNo": 721
+        },
+        {
+          "title": "... and this is why it is ineffective {Ch02.xhtmlsec2_2}",
+          "level": 2,
+          "lineNo": 850
+        },
+        {
+          "title": "Increasing interview objectivity and fairness through []{Ch02.xhtmlp20_78}standardization {Ch02.xhtmlsec2_3}",
+          "level": 2,
+          "lineNo": 968
+        },
+        {
+          "title": "Using []{Ch02.xhtmlp22_74}panel interviews because two heads are better than one {Ch02.xhtmlsec2_4}",
+          "level": 2,
+          "lineNo": 1049
+        },
+        {
+          "title": "Making the interview job-related with behavioural questions {Ch02.xhtmlsec2_5}",
+          "level": 2,
+          "lineNo": 1107
+        },
+        {
+          "title": "Using past-behavioural interview questions {Ch02.xhtmlsec2_5_1}",
+          "level": 3,
+          "lineNo": 1278
+        },
+        {
+          "title": "Effectively evaluating applicants' responses with rating scales {Ch02.xhtmlsec2_6}",
+          "level": 2,
+          "lineNo": 1662
+        },
+        {
+          "title": "The characteristics of high-quality interviews: Summary {Ch02.xhtmlsec2_7}",
+          "level": 2,
+          "lineNo": 1831
+        },
+        {
+          "title": "Toolbox {Ch02.xhtmlsec2_8}",
+          "level": 2,
+          "lineNo": 1912
+        },
+        {
+          "title": "Notes",
+          "level": 2,
+          "lineNo": 2320
+        },
+        {
+          "title": "Job interviews as social interactions {Ch03.xhtmlsec3_1}",
+          "level": 2,
+          "lineNo": 2452
+        },
+        {
+          "title": "Effective interviewing for job applicants {Ch03.xhtmlsec3_2}",
+          "level": 2,
+          "lineNo": 2494
+        },
+        {
+          "title": "Dealing with interview anxiety {Ch03.xhtmlsec3_2_1}",
+          "level": 3,
+          "lineNo": 2511
+        },
+        {
+          "title": "Preparation and training {Ch03.xhtmlsec3_2_2}",
+          "level": 3,
+          "lineNo": 2652
+        },
+        {
+          "title": "Identifying the selection criteria {Ch03.xhtmlsec3_2_3}",
+          "level": 3,
+          "lineNo": 2771
+        },
+        {
+          "title": "Managing pre-interview []{Ch03.xhtmlp62_70}expectations {Ch03.xhtmlsec3_2_4}",
+          "level": 3,
+          "lineNo": 2903
+        },
+        {
+          "title": "Effective interviewing for interviewers {Ch03.xhtmlsec3_3}",
+          "level": 2,
+          "lineNo": 2991
+        },
+        {
+          "title": "Understanding applicants' reactions {Ch03.xhtmlsec3_3_1}",
+          "level": 3,
+          "lineNo": 3007
+        },
+        {
+          "title": "Respectfully dealing with rejected applicants {Ch03.xhtmlsec3_3_2}",
+          "level": 3,
+          "lineNo": 3176
+        },
+        {
+          "title": "Effective interviewing around the world {Ch03.xhtmlsec3_4}",
+          "level": 2,
+          "lineNo": 3276
+        },
+        {
+          "title": "Cultural differences, societal norms, and interviewing practices {Ch03.xhtmlsec3_4_1}",
+          "level": 3,
+          "lineNo": 3299
+        }
+      ]
+    },
+    "Livre19.md": {
+      "strategy": "markdown_h2_fallback",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "List of Tables",
+          "level": 2,
+          "lineNo": 31
+        },
+        {
+          "title": "List of Illustrations",
+          "level": 2,
+          "lineNo": 43
+        },
+        {
+          "title": "Guide",
+          "level": 2,
+          "lineNo": 59
+        },
+        {
+          "title": "Pages",
+          "level": 2,
+          "lineNo": 83
+        },
+        {
+          "title": "[]{f07.xhtmlPage_xxi .pagebreak aria-label=\"xxi\" role=\"doc-pagebreak\"}[]{f07.xhtmlfm7}Introduction {f07.xhtmlf07_1}",
+          "level": 1,
+          "lineNo": 745
+        },
+        {
+          "title": "Putting myself out there {f07.xhtmlhead-2-93}",
+          "level": 2,
+          "lineNo": 822
+        },
+        {
+          "title": "A new door opens {f07.xhtmlhead-2-94}",
+          "level": 2,
+          "lineNo": 915
+        },
+        {
+          "title": "Sparking my entrepreneurial spirit {f07.xhtmlhead-2-95}",
+          "level": 2,
+          "lineNo": 983
+        },
+        {
+          "title": "All change {f07.xhtmlhead-2-96}",
+          "level": 2,
+          "lineNo": 1054
+        },
+        {
+          "title": "Going from strength to strength {f07.xhtmlhead-2-97}",
+          "level": 2,
+          "lineNo": 1084
+        },
+        {
+          "title": "It's time to take control of your life, starting with your personal brand {f07.xhtmlhead-2-98}",
+          "level": 2,
+          "lineNo": 1177
+        },
+        {
+          "title": "Back to basics: what is a personal brand? {c01.xhtmlhead-2-7}",
+          "level": 2,
+          "lineNo": 1358
+        },
+        {
+          "title": "Constructive interference {c01.xhtmlhead-2-8}",
+          "level": 2,
+          "lineNo": 1394
+        },
+        {
+          "title": "Control your value {c01.xhtmlhead-2-9}",
+          "level": 2,
+          "lineNo": 1537
+        },
+        {
+          "title": "It's never too late to leave a legacy {c01.xhtmlhead-2-10}",
+          "level": 2,
+          "lineNo": 1647
+        },
+        {
+          "title": "Getting Klowt: change your career, change your life {c01.xhtmlhead-2-11}",
+          "level": 3,
+          "lineNo": 1684
+        },
+        {
+          "title": "Amelia's words to live by {c01.xhtmlhead-2-12}",
+          "level": 2,
+          "lineNo": 1774
+        },
+        {
+          "title": "Click moments {c01.xhtmlhead-2-13}",
+          "level": 2,
+          "lineNo": 1875
+        },
+        {
+          "title": "Notes {c01.xhtmlc01_2}",
+          "level": 2,
+          "lineNo": 1895
+        },
+        {
+          "title": "Get clear on your goals {c02.xhtmlhead-2-14}",
+          "level": 2,
+          "lineNo": 1962
+        },
+        {
+          "title": "Differentiating your 'why' from your goals {c02.xhtmlhead-2-15}",
+          "level": 2,
+          "lineNo": 2041
+        },
+        {
+          "title": "Exercise: writing your mission statement {c02.xhtmlhead-2-16}",
+          "level": 2,
+          "lineNo": 2125
+        },
+        {
+          "title": "Get out of your own way {c02.xhtmlhead-2-17}",
+          "level": 2,
+          "lineNo": 2371
+        },
+        {
+          "title": "Click moments {c02.xhtmlhead-2-18}",
+          "level": 2,
+          "lineNo": 2418
+        },
+        {
+          "title": "Reverse-engineering your strategy {c03.xhtmlhead-2-19}",
+          "level": 2,
+          "lineNo": 2487
+        }
+      ]
+    },
+    "Livre20.md": {
+      "strategy": "inline_chapter",
+      "chapterCount": 5,
+      "chapters": [
+        {
+          "title": "CHAPTER 1 — ARTIFICIAL INTELLIGENCE IN THE WORLD OF",
+          "level": 2,
+          "lineNo": 45
+        },
+        {
+          "title": "CHAPTER 2 — ARTIFICIAL INTELLIGENCE IN SOCIAL",
+          "level": 2,
+          "lineNo": 48
+        },
+        {
+          "title": "CHAPTER 3 — ARTIFICIAL INTELLIGENCE TOOLS FOR SOCIAL MEDIA",
+          "level": 2,
+          "lineNo": 51
+        },
+        {
+          "title": "CHAPTER 4 — CREATION OF AN INTEGRATED MARKETING",
+          "level": 2,
+          "lineNo": 54
+        },
+        {
+          "title": "CHAPTER 5 — SOCIAL MEDIA MARKETING: PAST, FUTURE AND",
+          "level": 2,
+          "lineNo": 57
+        }
+      ]
+    },
+    "Livre21.md": {
+      "strategy": "markdown_h2_fallback",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "[]{9781400248889_Praise.xhtmlpage_i .calibre1 .pagebreak title=\"i\"}PRAISE FOR BUILDING A STORYBRAND {.fmt}",
+          "level": 2,
+          "lineNo": 49
+        },
+        {
+          "title": "[COPYRIGHT](nav.xhtmlrcopy){9781400248889_Copyright.xhtmlcopy .calibre8} {.fmt1}",
+          "level": 2,
+          "lineNo": 164
+        },
+        {
+          "title": "[]{nav.xhtmlpage_ix .calibre1 .pagebreak title=\"ix\"}CONTENTS[]{nav.xhtmlpage_x .calibre1 .pagebreak title=\"x\"} {.fmt1}",
+          "level": 2,
+          "lineNo": 235
+        },
+        {
+          "title": "Guide {.fmt1}",
+          "level": 1,
+          "lineNo": 241
+        },
+        {
+          "title": "[THE KEY TO BEING SEEN, HEARD, AND UNDERSTOOD](nav.xhtmlrsec5){.calibre8} {.chap_head}",
+          "level": 2,
+          "lineNo": 689
+        },
+        {
+          "title": "WHY SO MANY BUSINESSES FAIL {.h}",
+          "level": 3,
+          "lineNo": 762
+        },
+        {
+          "title": "STORY TO THE RESCUE {.h}",
+          "level": 3,
+          "lineNo": 941
+        },
+        {
+          "title": "THE FORMULA FOR CLEAR COMMUNICATION {.h}",
+          "level": 3,
+          "lineNo": 977
+        },
+        {
+          "title": "THE KEY IS CLARITY {.h}",
+          "level": 3,
+          "lineNo": 1009
+        },
+        {
+          "title": "BUSINESS HAS AN ENEMY {.h}",
+          "level": 3,
+          "lineNo": 1033
+        },
+        {
+          "title": "STOP SAYING THAT {.h}",
+          "level": 3,
+          "lineNo": 1094
+        },
+        {
+          "title": "CLARIFY YOUR MESSAGE {.h}",
+          "level": 3,
+          "lineNo": 1114
+        },
+        {
+          "title": "[THE SECRET WEAPON THAT WILL GROW YOUR BUSINESS](nav.xhtmlrsec6){.calibre8} {.chap_head}",
+          "level": 2,
+          "lineNo": 1139
+        },
+        {
+          "title": "STORY MAKES MUSIC OUT OF NOISE {.h}",
+          "level": 3,
+          "lineNo": 1168
+        },
+        {
+          "title": "STEVE JOBS AND THE MESSAGE OF APPLE {.h}",
+          "level": 3,
+          "lineNo": 1225
+        },
+        {
+          "title": "[]{9781400248889_Chapter02.xhtmlpage_24 .calibre1 .pagebreak title=\"24\"}STORY CAN GROW YOUR BUSINESS {.h}",
+          "level": 3,
+          "lineNo": 1286
+        },
+        {
+          "title": "DOES YOUR MARKETING PASS THE GRUNT TEST? {.h}",
+          "level": 3,
+          "lineNo": 1472
+        },
+        {
+          "title": "CLARITY PRODUCES RESULTS {.h}",
+          "level": 3,
+          "lineNo": 1500
+        },
+        {
+          "title": "WE NEED A FILTER {.h}",
+          "level": 3,
+          "lineNo": 1563
+        },
+        {
+          "title": "[THE SIMPLE SB7 FRAMEWORK](nav.xhtmlrsec7){.calibre8} {.chap_head}",
+          "level": 2,
+          "lineNo": 1606
+        },
+        {
+          "title": "THE STORYBRAND FRAMEWORK {.h}",
+          "level": 3,
+          "lineNo": 1616
+        },
+        {
+          "title": "WHEN YOU FEEL CONFUSED, CLARIFY YOUR MESSAGE {.h}",
+          "level": 3,
+          "lineNo": 1959
+        },
+        {
+          "title": "[]{9781400248889_Chapter03.xhtmlpage_49 .calibre1 .pagebreak title=\"49\"}CLARIFY YOUR MESSAGE SO CUSTOMERS LISTEN {.h}",
+          "level": 3,
+          "lineNo": 2028
+        },
+        {
+          "title": "THE STAKES ARE HIGH {.h}",
+          "level": 3,
+          "lineNo": 2045
+        },
+        {
+          "title": "[BUILDING YOUR STORYBRAND](nav.xhtmlrsec8){.calibre8} {.part_head}",
+          "level": 2,
+          "lineNo": 2091
+        }
+      ]
+    },
+    "Livre22.md": {
+      "strategy": "inline_chapter",
+      "chapterCount": 8,
+      "chapters": [
+        {
+          "title": "Chapter 1 — The Path Is All Yours",
+          "level": 2,
+          "lineNo": 8692
+        },
+        {
+          "title": "Chapter 3 — The Eighth Essential---Content",
+          "level": 2,
+          "lineNo": 8752
+        },
+        {
+          "title": "Chapter 5 — The Only Thing You Need to Give Yourself to Crush It",
+          "level": 2,
+          "lineNo": 8770
+        },
+        {
+          "title": "Chapter 8 — Musical.ly",
+          "level": 2,
+          "lineNo": 8777
+        },
+        {
+          "title": "Chapter 9 — Snapchat",
+          "level": 2,
+          "lineNo": 8792
+        },
+        {
+          "title": "Chapter 12 — Facebook",
+          "level": 2,
+          "lineNo": 8812
+        },
+        {
+          "title": "Chapter 13 — Instagram",
+          "level": 2,
+          "lineNo": 8864
+        },
+        {
+          "title": "Chapter 15 — Voice First",
+          "level": 2,
+          "lineNo": 8883
+        }
+      ]
+    },
+    "Livre23.md": {
+      "strategy": "toc_anchor",
+      "chapterCount": 19,
+      "chapters": [
+        {
+          "title": "Chapter 2: Step 1: Positioning",
+          "level": 1,
+          "lineNo": 7732
+        },
+        {
+          "title": "Chapter 2 Summary",
+          "level": 1,
+          "lineNo": 7749
+        },
+        {
+          "title": "Chapter 2 Action List",
+          "level": 1,
+          "lineNo": 7750
+        },
+        {
+          "title": "Chapter 3: Step 2: Messaging",
+          "level": 1,
+          "lineNo": 7751
+        },
+        {
+          "title": "Chapter 3 Summary",
+          "level": 1,
+          "lineNo": 7763
+        },
+        {
+          "title": "Chapter 3 Action List",
+          "level": 1,
+          "lineNo": 7764
+        },
+        {
+          "title": "Chapter 4: Step 3: Brand Strategy",
+          "level": 1,
+          "lineNo": 7765
+        },
+        {
+          "title": "Chapter 4 Summary",
+          "level": 1,
+          "lineNo": 7770
+        },
+        {
+          "title": "Chapter 4 Action List",
+          "level": 1,
+          "lineNo": 7771
+        },
+        {
+          "title": "Chapter 5: Step 4: Ecosystem",
+          "level": 1,
+          "lineNo": 7772
+        },
+        {
+          "title": "Chapter 5 Summary",
+          "level": 1,
+          "lineNo": 7787
+        },
+        {
+          "title": "Chapter 5 Action List",
+          "level": 1,
+          "lineNo": 7788
+        },
+        {
+          "title": "Chapter 6: Step 5: Action Plan",
+          "level": 1,
+          "lineNo": 7789
+        },
+        {
+          "title": "Chapter 6 Summary",
+          "level": 1,
+          "lineNo": 7800
+        },
+        {
+          "title": "Chapter 6 Action List",
+          "level": 1,
+          "lineNo": 7801
+        },
+        {
+          "title": "Chapter 7 Summary",
+          "level": 1,
+          "lineNo": 7810
+        },
+        {
+          "title": "Chapter 7 Action List",
+          "level": 1,
+          "lineNo": 7811
+        },
+        {
+          "title": "Chapter 8 Summary",
+          "level": 1,
+          "lineNo": 7824
+        },
+        {
+          "title": "Chapter 8 Action List",
+          "level": 1,
+          "lineNo": 7825
+        }
+      ]
+    },
+    "Livre24.md": {
+      "strategy": "toc_anchor",
+      "chapterCount": 12,
+      "chapters": [
+        {
+          "title": "PART 1 - Building Your Community",
+          "level": 1,
+          "lineNo": 6139
+        },
+        {
+          "title": "CHAPTER 1 - The Feed",
+          "level": 1,
+          "lineNo": 6140
+        },
+        {
+          "title": "CHAPTER 2 - The Audience",
+          "level": 1,
+          "lineNo": 6145
+        },
+        {
+          "title": "PART 2 - Packaging Your Brand",
+          "level": 1,
+          "lineNo": 6151
+        },
+        {
+          "title": "CHAPTER 3 - The Edge",
+          "level": 1,
+          "lineNo": 6152
+        },
+        {
+          "title": "CHAPTER 4 - The Press",
+          "level": 1,
+          "lineNo": 6158
+        },
+        {
+          "title": "PART 3 - Monetizing Your Influence",
+          "level": 1,
+          "lineNo": 6165
+        },
+        {
+          "title": "CHAPTER 5 - The Money",
+          "level": 1,
+          "lineNo": 6166
+        },
+        {
+          "title": "CHAPTER 6 - The Contract",
+          "level": 1,
+          "lineNo": 6170
+        },
+        {
+          "title": "CHAPTER 7 - The Agent",
+          "level": 1,
+          "lineNo": 6173
+        },
+        {
+          "title": "PART 4 - Planning Your Future",
+          "level": 1,
+          "lineNo": 6178
+        },
+        {
+          "title": "CHAPTER 8 - The Goal",
+          "level": 1,
+          "lineNo": 6179
+        }
+      ]
+    },
+    "Livre25.md": {
+      "strategy": "inline_chapter",
+      "chapterCount": 5,
+      "chapters": [
+        {
+          "title": "Step 1 — Figure out the level of awareness you’re targeting 1) Unaware 2) Problem Aware",
+          "level": 2,
+          "lineNo": 650
+        },
+        {
+          "title": "Step 2 — Write 50 hooks: Either divide the hooks into buckets that hit each level of aware-",
+          "level": 2,
+          "lineNo": 655
+        },
+        {
+          "title": "Step 3 — Write 3-5 “meats”: Pick a few of the following types.",
+          "level": 2,
+          "lineNo": 664
+        },
+        {
+          "title": "Step 4 — Write 1-3 CTAs: Both show and tell them what to do next. Tell them: 1) What/",
+          "level": 2,
+          "lineNo": 697
+        },
+        {
+          "title": "Step 5 — Try To Find A New Winner: Repeat steps 1-4 to try and find another winner.",
+          "level": 2,
+          "lineNo": 705
+        }
+      ]
+    },
+    "Livre26.md": {
+      "strategy": "inline_chapter",
+      "chapterCount": 11,
+      "chapters": [
+        {
+          "title": "PART II — MY ADS BLACKBOOK: BEST 20 AD FRAMEWORKS OF ALL TIME",
+          "level": 2,
+          "lineNo": 8
+        },
+        {
+          "title": "PART III — WHAT TO DO NEXT→CHECKLISTS",
+          "level": 2,
+          "lineNo": 84
+        },
+        {
+          "title": "PART I — AD KALEIDOSCOPE",
+          "level": 2,
+          "lineNo": 137
+        },
+        {
+          "title": "PART I — AD KALEIDOSCOPE | 3",
+          "level": 2,
+          "lineNo": 355
+        },
+        {
+          "title": "PART II — MY ADS BLACKBOOK: BEST 20 AD FRAMEWORKS OF ALL TIME | 19",
+          "level": 2,
+          "lineNo": 362
+        },
+        {
+          "title": "Step 1 — Identify Winners",
+          "level": 2,
+          "lineNo": 1241
+        },
+        {
+          "title": "Step 2 — Remix Winners",
+          "level": 2,
+          "lineNo": 1242
+        },
+        {
+          "title": "Step 3 — Remake Winners",
+          "level": 2,
+          "lineNo": 1243
+        },
+        {
+          "title": "Step 4 — Try New Ideas",
+          "level": 2,
+          "lineNo": 1246
+        },
+        {
+          "title": "PART II — MY ADS BLACKBOOK. BEST 20 AD FRAMEWORKS OF ALL TIME",
+          "level": 2,
+          "lineNo": 1813
+        },
+        {
+          "title": "PART III — WHAT TO DO NEXT -> CHECKLISTS ...................................... 109",
+          "level": 2,
+          "lineNo": 2297
+        }
+      ]
+    },
+    "Livre27.md": {
+      "strategy": "inline_chapter",
+      "chapterCount": 5,
+      "chapters": [
+        {
+          "title": "Step 4 — Reason (Why It Failed)",
+          "level": 2,
+          "lineNo": 1298
+        },
+        {
+          "title": "Step 5 — Pull Teeth",
+          "level": 2,
+          "lineNo": 1304
+        },
+        {
+          "title": "Step 9 — Repeat Until Complete (Only If Needed)",
+          "level": 2,
+          "lineNo": 1415
+        },
+        {
+          "title": "Step 3 — Obstacle (Current Obstacle)",
+          "level": 2,
+          "lineNo": 1893
+        },
+        {
+          "title": "STEP 4 — RE-OFFER/RE-ENGAGE",
+          "level": 2,
+          "lineNo": 2170
+        }
+      ]
+    },
+    "Livre28.md": {
+      "strategy": "inline_chapter",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "Step 2 — Figure out how to solve it",
+          "level": 2,
+          "lineNo": 904
+        },
+        {
+          "title": "Step 3 — Figure out how to deliver it Step 4: Test what to name it",
+          "level": 2,
+          "lineNo": 905
+        },
+        {
+          "title": "Step 5 — Make it easy to consume",
+          "level": 2,
+          "lineNo": 906
+        },
+        {
+          "title": "Step 6 — Make it darn good",
+          "level": 2,
+          "lineNo": 907
+        },
+        {
+          "title": "Step 7 — Make it easy for them to tell you they want more",
+          "level": 2,
+          "lineNo": 908
+        },
+        {
+          "title": "Step 1 — Figure out the problem you want to solve and who to",
+          "level": 2,
+          "lineNo": 916
+        },
+        {
+          "title": "Step 3 — Figure out how to deliver it",
+          "level": 2,
+          "lineNo": 1031
+        },
+        {
+          "title": "Step 4 — Test What To Name It",
+          "level": 2,
+          "lineNo": 1068
+        },
+        {
+          "title": "Step 5 — Make it easy for them to consume",
+          "level": 2,
+          "lineNo": 1144
+        },
+        {
+          "title": "Step 6 — Make it darn good:",
+          "level": 2,
+          "lineNo": 1180
+        },
+        {
+          "title": "Step 7 — Make it easy for them to tell you they want more Once",
+          "level": 2,
+          "lineNo": 1208
+        },
+        {
+          "title": "Step 0 — If you’re struggling to get leads, make an amazing lead",
+          "level": 2,
+          "lineNo": 1326
+        },
+        {
+          "title": "Step 1 — Figure out the problem you want to solve for the right",
+          "level": 2,
+          "lineNo": 1328
+        },
+        {
+          "title": "Step 6 — Make sure it’s darn good",
+          "level": 2,
+          "lineNo": 1332
+        },
+        {
+          "title": "Step 7 — Tell them what to do next, why it's a good idea, do it",
+          "level": 2,
+          "lineNo": 1333
+        },
+        {
+          "title": "Step 2 — Pick a platform",
+          "level": 2,
+          "lineNo": 1539
+        },
+        {
+          "title": "Step 3 — Personalize your message Step 4: Reach out Step 5: Warm",
+          "level": 2,
+          "lineNo": 1540
+        },
+        {
+          "title": "Step 10 — Keep Your List Warm",
+          "level": 2,
+          "lineNo": 1543
+        },
+        {
+          "title": "Step 1 — “But where do I advertise?” → Find a platform where",
+          "level": 2,
+          "lineNo": 3621
+        },
+        {
+          "title": "Step 2 — I’d go through an onboarding process that felt valuable",
+          "level": 2,
+          "lineNo": 6057
+        },
+        {
+          "title": "Step 3 — They assigned their “best” senior rep to my account.",
+          "level": 2,
+          "lineNo": 6059
+        },
+        {
+          "title": "Step 4 — I saw some results.",
+          "level": 2,
+          "lineNo": 6060
+        },
+        {
+          "title": "Step 5 — They moved my senior rep to the newest customer...",
+          "level": 2,
+          "lineNo": 6061
+        },
+        {
+          "title": "Step 6 — A junior rep starts managing my account. My results",
+          "level": 2,
+          "lineNo": 6062
+        },
+        {
+          "title": "Step 7 — I complained.",
+          "level": 2,
+          "lineNo": 6067
+        }
+      ]
+    },
+    "Livre29.md": {
+      "strategy": "inline_chapter",
+      "chapterCount": 21,
+      "chapters": [
+        {
+          "title": "Chapter 1 — PERSONAL BRANDS FILL STANDS",
+          "level": 2,
+          "lineNo": 13
+        },
+        {
+          "title": "Chapter 2 — LEAVE YOUR COMFORT ZONE",
+          "level": 2,
+          "lineNo": 25
+        },
+        {
+          "title": "Chapter 3 — SLAY THE TIME VAMPIRES",
+          "level": 2,
+          "lineNo": 39
+        },
+        {
+          "title": "Chapter 4 — SCOUT INDUSTRIES, MODEL PEOPLE",
+          "level": 2,
+          "lineNo": 53
+        },
+        {
+          "title": "Chapter 5 — GET GOOD THROWING WOOD",
+          "level": 2,
+          "lineNo": 65
+        },
+        {
+          "title": "Chapter 6 — MASTER THE SMOKE SIGNALS",
+          "level": 2,
+          "lineNo": 79
+        },
+        {
+          "title": "Chapter 7 — GIVE VALUE, EARN LOYALTY",
+          "level": 2,
+          "lineNo": 93
+        },
+        {
+          "title": "Chapter 8 — FIND COWS, COOK MEAT",
+          "level": 2,
+          "lineNo": 103
+        },
+        {
+          "title": "Chapter 9 — COMMAND MOMENTUM, COLLECT MONEY",
+          "level": 2,
+          "lineNo": 119
+        },
+        {
+          "title": "Chapter 10 — BLUEPRINT YOUR FUTURE EMPIRE",
+          "level": 2,
+          "lineNo": 129
+        },
+        {
+          "title": "Chapter 11 — IMPORT AND EXPORT YOURSELF",
+          "level": 2,
+          "lineNo": 141
+        },
+        {
+          "title": "Chapter 12 — YOUR 90‐DAY BRAND PLAN",
+          "level": 2,
+          "lineNo": 155
+        },
+        {
+          "title": "Chapter 3 — Slay the Time Vampires\\). You must approach your",
+          "level": 2,
+          "lineNo": 753
+        },
+        {
+          "title": "Step 2 — With the information we learn from that workshop, our team will ideate possible content topics.",
+          "level": 2,
+          "lineNo": 2041
+        },
+        {
+          "title": "Step 3 — We'll then present these ideas to you for you to approve which you like.",
+          "level": 2,
+          "lineNo": 2043
+        },
+        {
+          "title": "Step 4 — We'll then design a mockup template of what your first nine pieces of content would look like.",
+          "level": 2,
+          "lineNo": 2045
+        },
+        {
+          "title": "Step 5 — We'll write captions for this content, which we'll submit for your approval.",
+          "level": 2,
+          "lineNo": 2047
+        },
+        {
+          "title": "Step 6 — We'll identify the most effective hashtags for your social page\\(s\\).",
+          "level": 2,
+          "lineNo": 2049
+        },
+        {
+          "title": "Step 7 — We'll schedule your first months' worth of content.",
+          "level": 2,
+          "lineNo": 2051
+        },
+        {
+          "title": "Step 8 — After the first month of content publication, we'll run an audit to gauge how effective it is.",
+          "level": 2,
+          "lineNo": 2053
+        },
+        {
+          "title": "Step 9 — Based on that analysis, we'll … \\(etc.\\).",
+          "level": 2,
+          "lineNo": 2055
+        }
+      ]
+    },
+    "linkedin_diagnostic_skill.md": {
+      "strategy": "markdown_h2",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "LinkedIn Diagnostic System — Claude Skill",
+          "level": 1,
+          "lineNo": 1
+        },
+        {
+          "title": "Rôle",
+          "level": 2,
+          "lineNo": 3
+        },
+        {
+          "title": "Ton",
+          "level": 2,
+          "lineNo": 7
+        },
+        {
+          "title": "Flow global",
+          "level": 2,
+          "lineNo": 17
+        },
+        {
+          "title": "Message d'accueil",
+          "level": 2,
+          "lineNo": 31
+        },
+        {
+          "title": "BLOC 1 — Audit Profil LinkedIn",
+          "level": 2,
+          "lineNo": 59
+        },
+        {
+          "title": "Ce que tu reçois",
+          "level": 3,
+          "lineNo": 61
+        },
+        {
+          "title": "Ce que tu analyses",
+          "level": 3,
+          "lineNo": 65
+        },
+        {
+          "title": "Ce que tu délivres",
+          "level": 3,
+          "lineNo": 91
+        },
+        {
+          "title": "Transition vers Bloc 2",
+          "level": 3,
+          "lineNo": 106
+        },
+        {
+          "title": "BLOC 2 — Stratégie de Contenu",
+          "level": 2,
+          "lineNo": 120
+        },
+        {
+          "title": "Ce que tu demandes",
+          "level": 3,
+          "lineNo": 122
+        },
+        {
+          "title": "Ce que tu délivres",
+          "level": 3,
+          "lineNo": 134
+        },
+        {
+          "title": "Ce que tu ne fais PAS",
+          "level": 3,
+          "lineNo": 153
+        },
+        {
+          "title": "Transition vers Bloc 3",
+          "level": 3,
+          "lineNo": 161
+        },
+        {
+          "title": "BLOC 3 — Génération de Hooks",
+          "level": 2,
+          "lineNo": 173
+        },
+        {
+          "title": "Ce que tu demandes",
+          "level": 3,
+          "lineNo": 175
+        },
+        {
+          "title": "Ce que tu délivres",
+          "level": 3,
+          "lineNo": 179
+        },
+        {
+          "title": "Règles pour les hooks",
+          "level": 3,
+          "lineNo": 195
+        },
+        {
+          "title": "Transition vers Bloc 4",
+          "level": 3,
+          "lineNo": 204
+        },
+        {
+          "title": "BLOC 4 — Analyse de Posts Existants",
+          "level": 2,
+          "lineNo": 216
+        },
+        {
+          "title": "Ce que tu demandes",
+          "level": 3,
+          "lineNo": 218
+        },
+        {
+          "title": "Ce que tu analyses pour chaque post",
+          "level": 3,
+          "lineNo": 233
+        },
+        {
+          "title": "Ce que tu délivres",
+          "level": 3,
+          "lineNo": 247
+        },
+        {
+          "title": "Ce que tu ne fais PAS",
+          "level": 3,
+          "lineNo": 257
+        }
+      ]
+    },
+    "linkedin-best-practices.md": {
+      "strategy": "markdown_h2_fallback",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "LinkedIn Profile Optimization & Personal Branding - Best Practices",
+          "level": 1,
+          "lineNo": 1
+        },
+        {
+          "title": "Extracted from Industry Guides for ProfileMind Profile Analyzer",
+          "level": 2,
+          "lineNo": 2
+        },
+        {
+          "title": "1. PROFIL PHOTO & VISUAL BRANDING",
+          "level": 2,
+          "lineNo": 6
+        },
+        {
+          "title": "Profile Picture Requirements",
+          "level": 3,
+          "lineNo": 8
+        },
+        {
+          "title": "Visual Branding Elements",
+          "level": 3,
+          "lineNo": 20
+        },
+        {
+          "title": "Photo Tips",
+          "level": 3,
+          "lineNo": 28
+        },
+        {
+          "title": "2. HEADLINE (120 CARACTÈRES MAX)",
+          "level": 2,
+          "lineNo": 39
+        },
+        {
+          "title": "Structure Recommandée (Keyword-Saturated)",
+          "level": 3,
+          "lineNo": 41
+        },
+        {
+          "title": "Stratégies de Headline",
+          "level": 3,
+          "lineNo": 49
+        },
+        {
+          "title": "What NOT to Do",
+          "level": 3,
+          "lineNo": 61
+        },
+        {
+          "title": "3. ABOUT SECTION (2,600 CARACTÈRES)",
+          "level": 2,
+          "lineNo": 70
+        },
+        {
+          "title": "Approche Stratégique",
+          "level": 3,
+          "lineNo": 72
+        },
+        {
+          "title": "Structure Recommandée",
+          "level": 3,
+          "lineNo": 79
+        },
+        {
+          "title": "Brand Voice Guidelines",
+          "level": 3,
+          "lineNo": 88
+        },
+        {
+          "title": "4. EXPERIENCE SECTION",
+          "level": 2,
+          "lineNo": 97
+        },
+        {
+          "title": "Présentation Optimale",
+          "level": 3,
+          "lineNo": 99
+        },
+        {
+          "title": "Contenu de la Description",
+          "level": 3,
+          "lineNo": 102
+        },
+        {
+          "title": "Rich Media Integration",
+          "level": 3,
+          "lineNo": 109
+        },
+        {
+          "title": "Multi-Expériences",
+          "level": 3,
+          "lineNo": 114
+        },
+        {
+          "title": "5. KEYWORDS & SEARCHABILITY",
+          "level": 2,
+          "lineNo": 120
+        },
+        {
+          "title": "Keyword Research",
+          "level": 3,
+          "lineNo": 122
+        },
+        {
+          "title": "Where to Place Keywords",
+          "level": 3,
+          "lineNo": 128
+        },
+        {
+          "title": "Keyword Strategy",
+          "level": 3,
+          "lineNo": 135
+        },
+        {
+          "title": "6. SKILLS, ENDORSEMENTS & RECOMMENDATIONS",
+          "level": 2,
+          "lineNo": 143
+        },
+        {
+          "title": "Skills Section",
+          "level": 3,
+          "lineNo": 145
+        }
+      ]
+    },
+    "Ogilvy on Advertising.md": {
+      "strategy": "plain_toc_link",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "Useful reference sources",
+          "level": 2,
+          "lineNo": 89
+        },
+        {
+          "title": "Picture credits",
+          "level": 2,
+          "lineNo": 93
+        },
+        {
+          "title": "320--1",
+          "level": 2,
+          "lineNo": 9291
+        },
+        {
+          "title": "291--2",
+          "level": 2,
+          "lineNo": 9337
+        },
+        {
+          "title": "273--4",
+          "level": 2,
+          "lineNo": 9393
+        },
+        {
+          "title": "268--70",
+          "level": 2,
+          "lineNo": 9414
+        },
+        {
+          "title": "310--11",
+          "level": 2,
+          "lineNo": 9438
+        },
+        {
+          "title": "224--31",
+          "level": 2,
+          "lineNo": 9528
+        },
+        {
+          "title": "245--7",
+          "level": 2,
+          "lineNo": 9551
+        },
+        {
+          "title": "279--80",
+          "level": 2,
+          "lineNo": 9554
+        },
+        {
+          "title": "83--4",
+          "level": 2,
+          "lineNo": 9581
+        },
+        {
+          "title": "81--9",
+          "level": 2,
+          "lineNo": 9584
+        },
+        {
+          "title": "146--8",
+          "level": 2,
+          "lineNo": 9655
+        },
+        {
+          "title": "208--9",
+          "level": 2,
+          "lineNo": 9663
+        },
+        {
+          "title": "137--43",
+          "level": 2,
+          "lineNo": 9794
+        },
+        {
+          "title": "258--9",
+          "level": 2,
+          "lineNo": 9799
+        },
+        {
+          "title": "317--18",
+          "level": 2,
+          "lineNo": 9900
+        },
+        {
+          "title": "271--3",
+          "level": 2,
+          "lineNo": 9965
+        },
+        {
+          "title": "244--5",
+          "level": 2,
+          "lineNo": 10126
+        },
+        {
+          "title": "216--18",
+          "level": 2,
+          "lineNo": 10304
+        },
+        {
+          "title": "243--4",
+          "level": 2,
+          "lineNo": 10441
+        },
+        {
+          "title": "318--19",
+          "level": 2,
+          "lineNo": 10471
+        },
+        {
+          "title": "140--2",
+          "level": 2,
+          "lineNo": 10491
+        },
+        {
+          "title": "230--1",
+          "level": 2,
+          "lineNo": 10508
+        },
+        {
+          "title": "242--3",
+          "level": 2,
+          "lineNo": 10567
+        }
+      ]
+    },
+    "Scientific Advertising.md": {
+      "strategy": "inline_chapter",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "Chapter 1 — How Advertising Laws Are Established",
+          "level": 2,
+          "lineNo": 50
+        },
+        {
+          "title": "Chapter 2 — Just Salesmanship",
+          "level": 2,
+          "lineNo": 51
+        },
+        {
+          "title": "Chapter 3 — Offer Service",
+          "level": 2,
+          "lineNo": 52
+        },
+        {
+          "title": "Chapter 4 — Mail Order Advertising, What It Teaches",
+          "level": 2,
+          "lineNo": 53
+        },
+        {
+          "title": "Chapter 5 — Headlines",
+          "level": 2,
+          "lineNo": 54
+        },
+        {
+          "title": "Chapter 6 — Psychology",
+          "level": 2,
+          "lineNo": 55
+        },
+        {
+          "title": "Chapter 7 — Being Specific",
+          "level": 2,
+          "lineNo": 56
+        },
+        {
+          "title": "Chapter 8 — Tell Your Full Story",
+          "level": 2,
+          "lineNo": 57
+        },
+        {
+          "title": "Chapter 9 — Art In Advertising",
+          "level": 2,
+          "lineNo": 58
+        },
+        {
+          "title": "Chapter 10 — Things Too Costly",
+          "level": 2,
+          "lineNo": 59
+        },
+        {
+          "title": "Chapter 11 — Information",
+          "level": 2,
+          "lineNo": 60
+        },
+        {
+          "title": "Chapter 12 — Strategy",
+          "level": 2,
+          "lineNo": 61
+        },
+        {
+          "title": "Chapter 13 — Use Of Samples",
+          "level": 2,
+          "lineNo": 62
+        },
+        {
+          "title": "Chapter 14 — Getting Distribution",
+          "level": 2,
+          "lineNo": 63
+        },
+        {
+          "title": "Chapter 15 — Test Campaigns",
+          "level": 2,
+          "lineNo": 64
+        },
+        {
+          "title": "Chapter 16 — Leaning On Dealers",
+          "level": 2,
+          "lineNo": 65
+        },
+        {
+          "title": "Chapter 17 — Individuality",
+          "level": 2,
+          "lineNo": 66
+        },
+        {
+          "title": "Chapter 18 — Negative Advertising",
+          "level": 2,
+          "lineNo": 67
+        },
+        {
+          "title": "Chapter 19 — Letter Writing",
+          "level": 2,
+          "lineNo": 68
+        },
+        {
+          "title": "Chapter 20 — A Name That Helps",
+          "level": 2,
+          "lineNo": 69
+        },
+        {
+          "title": "Chapter 21 — Good Business",
+          "level": 2,
+          "lineNo": 70
+        },
+        {
+          "title": "CHAPTER 1 — HOW ADVERTISING LAWS ARE ESTABLISHED",
+          "level": 2,
+          "lineNo": 76
+        },
+        {
+          "title": "CHAPTER 2 — JUST SALESMANSHIP",
+          "level": 2,
+          "lineNo": 158
+        },
+        {
+          "title": "CHAPTER 3 — OFFER SERVICE",
+          "level": 2,
+          "lineNo": 234
+        },
+        {
+          "title": "CHAPTER 4 — MAIL ORDER ADVERTISING, WHAT IT TEACHES",
+          "level": 2,
+          "lineNo": 276
+        }
+      ]
+    },
+    "The Adweek Copywriting Handbook.md": {
+      "strategy": "inline_chapter",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "Chapter 1 — General",
+          "level": 2,
+          "lineNo": 58
+        },
+        {
+          "title": "Chapter 2 — Specific",
+          "level": 2,
+          "lineNo": 73
+        },
+        {
+          "title": "Chapter 3 — Practice, Practice,",
+          "level": 2,
+          "lineNo": 94
+        },
+        {
+          "title": "Chapter 4 — The Purpose of All the Graphic Elements of an",
+          "level": 2,
+          "lineNo": 103
+        },
+        {
+          "title": "Chapter 5 — The First",
+          "level": 2,
+          "lineNo": 106
+        },
+        {
+          "title": "Chapter 6 — Creating the Perfect Buying",
+          "level": 2,
+          "lineNo": 115
+        },
+        {
+          "title": "Chapter 7 — Resonating with the",
+          "level": 2,
+          "lineNo": 127
+        },
+        {
+          "title": "Chapter 8 — The Slippery",
+          "level": 2,
+          "lineNo": 136
+        },
+        {
+          "title": "Chapter 9 — Assumed",
+          "level": 2,
+          "lineNo": 148
+        },
+        {
+          "title": "Chapter 10 — Seeds of",
+          "level": 2,
+          "lineNo": 157
+        },
+        {
+          "title": "Chapter 11 — Copy as",
+          "level": 2,
+          "lineNo": 175
+        },
+        {
+          "title": "Chapter 12 — Selling the Concept, Not the",
+          "level": 2,
+          "lineNo": 199
+        },
+        {
+          "title": "Chapter 13 — The Incubation",
+          "level": 2,
+          "lineNo": 214
+        },
+        {
+          "title": "Chapter 14 — How Much Copy Should You",
+          "level": 2,
+          "lineNo": 226
+        },
+        {
+          "title": "Chapter 15 — The Art of Personal",
+          "level": 2,
+          "lineNo": 241
+        },
+        {
+          "title": "Chapter 16 — The Copy",
+          "level": 2,
+          "lineNo": 256
+        },
+        {
+          "title": "Chapter 17 — The Editing",
+          "level": 2,
+          "lineNo": 277
+        },
+        {
+          "title": "Chapter 18 — Powerful Copy Elements",
+          "level": 2,
+          "lineNo": 309
+        },
+        {
+          "title": "Chapter 19 — The Psychological",
+          "level": 2,
+          "lineNo": 318
+        },
+        {
+          "title": "Chapter 20 — Selling a Cure, Not",
+          "level": 2,
+          "lineNo": 414
+        },
+        {
+          "title": "Chapter 21 — Rating Your Writing",
+          "level": 2,
+          "lineNo": 426
+        },
+        {
+          "title": "Chapter 22 — Seven Steps to Writing Great",
+          "level": 2,
+          "lineNo": 432
+        },
+        {
+          "title": "Chapter 23 — The Lazy Man's Way to",
+          "level": 2,
+          "lineNo": 443
+        },
+        {
+          "title": "Chapter 24 — A Fluke of",
+          "level": 2,
+          "lineNo": 446
+        },
+        {
+          "title": "Chapter 25 — Lingerie for",
+          "level": 2,
+          "lineNo": 452
+        }
+      ]
+    },
+    "The Boron Letters.md": {
+      "strategy": "inline_chapter",
+      "chapterCount": 7,
+      "chapters": [
+        {
+          "title": "Step 1 — Find a hot market (mailing list)",
+          "level": 2,
+          "lineNo": 5455
+        },
+        {
+          "title": "Step 2 — Find or create a product (preferably paper and ink) to sell to",
+          "level": 2,
+          "lineNo": 5457
+        },
+        {
+          "title": "Step 3 — Create a direct mail promotion that describes the product (or",
+          "level": 2,
+          "lineNo": 5460
+        },
+        {
+          "title": "Step 4 — Make a test mailing (1,000 to 5,000 pieces)",
+          "level": 2,
+          "lineNo": 5463
+        },
+        {
+          "title": "Step 5 — Analyze results",
+          "level": 2,
+          "lineNo": 5465
+        },
+        {
+          "title": "Step 6 — If results are good, mail 20,000 to 100,000 more letters",
+          "level": 2,
+          "lineNo": 5467
+        },
+        {
+          "title": "Step 7 — If results are still good, start rolling out and taking care of",
+          "level": 2,
+          "lineNo": 5469
+        }
+      ]
+    },
+    "The Copywriter's Handbook- A Step-by-Step Guide to Writing.md": {
+      "strategy": "markdown_h2_fallback",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "PREFACE TO THE FOURTH EDITION",
+          "level": 1,
+          "lineNo": 66
+        },
+        {
+          "title": "PREFACE TO THE FIRST EDITION",
+          "level": 1,
+          "lineNo": 88
+        },
+        {
+          "title": "A NOTE ABOUT YOU, THE READER",
+          "level": 1,
+          "lineNo": 136
+        },
+        {
+          "title": "ACKNOWLEDGMENTS",
+          "level": 1,
+          "lineNo": 146
+        },
+        {
+          "title": "AN INTRODUCTION TO COPYWRITING",
+          "level": 1,
+          "lineNo": 206
+        },
+        {
+          "title": "HAS THE INTERNET CHANGED COPYWRITING FOR BOTH WRITERS AND READERS?",
+          "level": 2,
+          "lineNo": 353
+        },
+        {
+          "title": "THE THREE KEYS TO WRITING COPY THAT WORKS IN THE DIGITAL AGE",
+          "level": 2,
+          "lineNo": 365
+        },
+        {
+          "title": "SOME GOOD NEWS FOR OLD-SCHOOL COPYWRITERS",
+          "level": 2,
+          "lineNo": 445
+        },
+        {
+          "title": "HOW ONLINE VIDEO HAS CHANGED COPYWRITING",
+          "level": 2,
+          "lineNo": 481
+        },
+        {
+          "title": "HOW SOCIAL MEDIA HAS CHANGED MARKETING",
+          "level": 2,
+          "lineNo": 504
+        },
+        {
+          "title": "HOW MULTICHANNEL MARKETING HAS CHANGED COPYWRITING",
+          "level": 2,
+          "lineNo": 520
+        },
+        {
+          "title": "WRITING TO GET ATTENTION: THE HEADLINE AND SUBJECT LINE",
+          "level": 1,
+          "lineNo": 538
+        },
+        {
+          "title": "HOW HEADLINES GET ATTENTION",
+          "level": 2,
+          "lineNo": 568
+        },
+        {
+          "title": "THE FOUR FUNCTIONS OF THE HEADLINE",
+          "level": 2,
+          "lineNo": 624
+        },
+        {
+          "title": "1. Getting Attention",
+          "level": 3,
+          "lineNo": 641
+        },
+        {
+          "title": "2. Selecting the Audience",
+          "level": 3,
+          "lineNo": 699
+        },
+        {
+          "title": "3. Delivering a Complete Message",
+          "level": 3,
+          "lineNo": 721
+        },
+        {
+          "title": "4. Drawing the Reader into the Body Copy",
+          "level": 3,
+          "lineNo": 739
+        },
+        {
+          "title": "EIGHT BASIC HEADLINE TYPES",
+          "level": 2,
+          "lineNo": 753
+        },
+        {
+          "title": "1. Direct Headlines",
+          "level": 3,
+          "lineNo": 765
+        },
+        {
+          "title": "2. Indirect Headlines",
+          "level": 3,
+          "lineNo": 771
+        },
+        {
+          "title": "3. News Headlines",
+          "level": 3,
+          "lineNo": 779
+        },
+        {
+          "title": "4. How-to Headlines",
+          "level": 3,
+          "lineNo": 801
+        },
+        {
+          "title": "5. Question Headlines",
+          "level": 3,
+          "lineNo": 811
+        },
+        {
+          "title": "6. Command Headlines",
+          "level": 3,
+          "lineNo": 845
+        }
+      ]
+    },
+    "You Are The Brand The 8-Step Blueprint to Showcase Your.md": {
+      "strategy": "markdown_h2_fallback",
+      "chapterCount": 25,
+      "chapters": [
+        {
+          "title": "You Are the Brand",
+          "level": 2,
+          "lineNo": 1
+        },
+        {
+          "title": "Endorsements",
+          "level": 2,
+          "lineNo": 7
+        },
+        {
+          "title": "Contents",
+          "level": 2,
+          "lineNo": 206
+        },
+        {
+          "title": "Foreword",
+          "level": 2,
+          "lineNo": 280
+        },
+        {
+          "title": "My Story",
+          "level": 2,
+          "lineNo": 325
+        },
+        {
+          "title": "PART ONE",
+          "level": 2,
+          "lineNo": 436
+        },
+        {
+          "title": "The Personal Brand",
+          "level": 2,
+          "lineNo": 442
+        },
+        {
+          "title": "CHAPTER ONE",
+          "level": 2,
+          "lineNo": 451
+        },
+        {
+          "title": "Who Do You Have to Become in Order to Serve the People You Want to Serve?",
+          "level": 2,
+          "lineNo": 457
+        },
+        {
+          "title": "You Already Have a Brand, So You Might as Well Become a Better One",
+          "level": 3,
+          "lineNo": 505
+        },
+        {
+          "title": "Life Is Too Short for the Wrong Career",
+          "level": 3,
+          "lineNo": 519
+        },
+        {
+          "title": "Highways vs. Off-Roading",
+          "level": 3,
+          "lineNo": 535
+        },
+        {
+          "title": "Identifying Your Unique Expertise",
+          "level": 3,
+          "lineNo": 547
+        },
+        {
+          "title": "This Is the Perfect Time to Go Silent",
+          "level": 3,
+          "lineNo": 581
+        },
+        {
+          "title": "The Only Three Markets We’re Ever Really In",
+          "level": 3,
+          "lineNo": 595
+        },
+        {
+          "title": "The 8-Step Brand You Blueprint",
+          "level": 3,
+          "lineNo": 611
+        },
+        {
+          "title": "Success Is Sequential, Not Simultaneous",
+          "level": 3,
+          "lineNo": 657
+        },
+        {
+          "title": "Who Do You Have to Become in Order to Serve the People You Want to Serve?",
+          "level": 3,
+          "lineNo": 667
+        },
+        {
+          "title": "CHAPTER TWO",
+          "level": 2,
+          "lineNo": 683
+        },
+        {
+          "title": "How-To-Preneur vs. Ideapreneur: Which One Are You?",
+          "level": 2,
+          "lineNo": 689
+        },
+        {
+          "title": "The Monetization Path",
+          "level": 3,
+          "lineNo": 718
+        },
+        {
+          "title": "The Idea of Vulnerability",
+          "level": 3,
+          "lineNo": 738
+        },
+        {
+          "title": "At Their Own Pace and in Their Own Space",
+          "level": 3,
+          "lineNo": 764
+        },
+        {
+          "title": "The Two Types of Focus: Vertical or Horizontal",
+          "level": 3,
+          "lineNo": 797
+        },
+        {
+          "title": "Demographics vs. Psychographics",
+          "level": 3,
+          "lineNo": 824
+        }
+      ]
+    }
+  }
+}
